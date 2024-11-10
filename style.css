@@ -1,0 +1,22 @@
+main img {
+    width: 150px;
+    height: 150px;
+    
+}
+
+header a {
+    background-color: orange;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 10px;
+}
+
+
+.mainlogo{
+    width:500px;
+    height: 300px;
+}
+
+body{
+    background-color: rgb(183, 145, 219);
+}

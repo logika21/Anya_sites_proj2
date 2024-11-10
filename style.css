@@ -20,3 +20,18 @@ header a {
 body{
     background-color: rgb(183, 145, 219);
 }
+
+header {
+    padding: 15px;
+    background-color: rgb(107, 107, 193);
+}
+
+footer {
+    padding: 10px;
+    background-color: rgb(111, 111, 143);
+}
+
+.icon
+{
+    width: 100px;
+}
